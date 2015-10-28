@@ -59,7 +59,7 @@ defMh = mh;
     
 	var nav=$('nav')
 		,content=$('#content')
-		,bgStretch=$('<div><img src="images/picture1.jpg"></div>').appendTo('body')
+		,bgStretch=$('<div><img src="resources/images/picture1.jpg"></div>').appendTo('body')
 		,glob=$('#glob')
 		,splsh=true
 	
