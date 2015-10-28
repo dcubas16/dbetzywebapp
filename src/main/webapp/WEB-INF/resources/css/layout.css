@@ -1,0 +1,23 @@
+.col1, .col2, .col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11, .col12, .col13, .col14 {float:left; overflow:hidden;}
+
+.col1 {overflow:visible; width:390px; margin-right:88px;}
+.col2 {width:472px;}
+.col3 {width:950px;}
+.col4 {width:630px; margin-right:50px;}
+.col6 {width:430px; margin-right:48px;}
+.col14 {width:472px}
+
+.col1 > img {position:relative; z-index:0; margin-top:-37px; margin-left:-80px;}
+.col1 .text1 {font:23px/29px 'Open Sans', sans-serif; color:#252525; text-transform:uppercase; position:relative; z-index:1;}
+.col1 .text2 {font:bold italic 13px/18px 'Trebuchet MS', sans-serif; color:#252525; margin-bottom:17px; margin-top:20px; word-spacing:-1px;}
+.col1 .text3 {font:italic 13px/18px 'Trebuchet MS', sans-serif; color:#252525; margin-bottom:13px;}
+.col1 .text2 > span {font:bold 36px/18px 'Open Sans', sans-serif; color:#252525; margin-right:12px; position:relative; top:8px;}
+.col1 .text3 > span {font:bold 36px/18px 'Open Sans', sans-serif; color:#252525; margin-left:4px; position:relative; top:8px;}
+.col1 .text3 > span img {margin-top:-3px;}
+.col1 .text4 {font:14px/18px 'Open Sans', sans-serif; color:#252525; float:right; margin-bottom:6px;}
+
+.margRight {margin-right:70px;}
+.margRight2 {margin-right:49px;}
+.margBot {margin-bottom:20px;}
+.margBot1 {margin-bottom:18px;}
+.margLeft {margin-left:30px;}
