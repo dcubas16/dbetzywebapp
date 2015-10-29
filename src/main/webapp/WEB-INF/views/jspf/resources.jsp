@@ -33,6 +33,7 @@
 <!--Form & Map-->
 <script src="resources/js/forms.js"></script>
 <script src="resources/js/googleMap.js"></script>
+<script src="resources/js/angular.min.js"></script>
 <!--[if lt IE 9]>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
