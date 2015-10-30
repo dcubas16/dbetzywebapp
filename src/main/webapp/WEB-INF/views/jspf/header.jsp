@@ -46,5 +46,17 @@
 			<li class="last"><a href="#" style="opacity: 1;"><img
 					src="resources/images/follow_icon3.png" alt=""></a></li>
 		</ul>
+
+		<ul class="nav navbar-nav navbar-right language-buttom-style">
+			<li class="dropdown"><a href="#" class="dropdown-toggle"
+				data-toggle="dropdown"><span
+					class="glyphicon bfh-flag-ES language-flag-style"></span>Español <span
+					class="caret"></span></a>
+				<ul class="dropdown-menu" role="menu">
+					<li><a href="#"><span
+							class="glyphicon bfh-flag-US language-flag-style"></span>English
+					</a></li>
+				</ul></li>
+		</ul>
 	</div>
 </header>
