@@ -6,7 +6,7 @@
 <header style="text-align: center;">
 	<div style="width: 100%">
 		<h1>
-			<a href="#!/page_main" id="logo">jijey</a>
+			<a href="#!/page_main" id="logo">D'Betzy</a>
 		</h1>
 		<nav class="menu">
 			<ul id="menu" class="sf-js-enabled">
