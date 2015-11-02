@@ -200,13 +200,19 @@ h3 {
 	display:none;
 }
 #logo {
-	background:url(../images/logo.png) 0 0 no-repeat;
+	background:url(../images/logo_dbetzy.png) 0 0 no-repeat;
 	display:inline-block;
-	width:168px;
-	height:71px;
-	text-indent:100%;
-	white-space:nowrap;
-	overflow:hidden;
+/* 	width:168px; */
+/* 	height:71px; */
+/* 	text-indent:100%; */
+/* 	white-space:nowrap; */
+/* 	overflow:hidden; */
+	
+	width: 168px;
+    height: 90px;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .follow-icon {
 	display:inline-block;
