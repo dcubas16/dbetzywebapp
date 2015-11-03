@@ -44,8 +44,8 @@
 	<div class="footMain">
 		<div>
 			<div id="footerLogo">
-				<img src="resources/images/footer_logo.png" alt=""
-					class="footerLogo">
+<!-- 				<img src="resources/images/footer_logo.png" alt="" -->
+<!-- 					class="footerLogo"> -->
 				<div class="compInfo">
 					<p>
 						&copy; 2013<br> <a href="#!/page_privacy">privacy policy</a>
@@ -55,48 +55,46 @@
 			<ul class="list1 margRight">
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">New Jewelry</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.newJewerly"/></a></li>
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Bracelets</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.bracelets"/></a></li>
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Brooches</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.brooches"/></a></li>
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Charms</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.charms"/></a></li>
 			</ul>
 			<ul class="list1 margRight2">
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Earrings</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.earrings"/></a></li>
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Necklaces &
-						Pendants</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.necklacesAndPendants"/></a></li>
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Rings</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.rings"/></a></li>
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Men's Jewelry</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.mensJewerly"/></a></li>
 			</ul>
 			<ul class="list1">
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Silver Jewelry</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.silverJewerly"/></a></li>
 				<li><a href="#!/page_more"><img
 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Yellow
-						Diamonds</a></li>
-				<li><a href="#!/page_more"><img
-						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Statement
-						Jewelry</a></li>
-				<li><a href="#!/page_more"><img
-						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img
-						src="resources/images/list1_arrow.png" alt="">Solitaire
-						Jewelry</a></li>
+						src="resources/images/list1_arrow.png" alt=""><spring:message code="label.diamonds"/></a></li>
+<!-- 				<li><a href="#!/page_more"><img -->
+<!-- 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img -->
+<!-- 						src="resources/images/list1_arrow.png" alt="">Statement -->
+<!-- 						Jewelry</a></li> -->
+<!-- 				<li><a href="#!/page_more"><img -->
+<!-- 						src="resources/images/list1_arrow_act.png" alt="" class="img_act"><img -->
+<!-- 						src="resources/images/list1_arrow.png" alt="">Solitaire -->
+<!-- 						Jewelry</a></li> -->
 			</ul>
 		</div>
 	</div>

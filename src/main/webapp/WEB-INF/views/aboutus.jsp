@@ -25,6 +25,7 @@
 		<a href="#!/page_more" class="more fright">read more</a>
 	</article>
 	<article class="col2">
+		http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GBE0eodu9jPHWMmH-PBj9StuRIjHaLsvxU-sjxGjSWw&font=Default&lang=es&initial_zoom=2&height=650
 		<ul class="list2">
 			<li>
 				<h3>Legacy:</h3>

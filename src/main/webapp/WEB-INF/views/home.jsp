@@ -3,22 +3,13 @@
 <%@ taglib prefix="f" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <%@	taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <!DOCTYPE html>
-<html lang="en" ng-app="phonecatApp">
+<html lang="en">
 <c:import url="../views/jspf/resources.jsp" />
 <body>
 	<div class="glob">
 		<div class="page_spinner"></div>
 		<div id="bg_glob"></div>
 		<div class="spinner"></div>
-		
-		<div ng-controller="PhoneListCtrl">
-
-			<ul>
-				<li ng-repeat="phone in phones"><span>{{phone.name}}</span>
-					<p>{{phone.snippet}}</p></li>
-			</ul>
-
-		</div>
 		
 		<!--header-->
 		<c:import url="../views/jspf/header.jsp" />
@@ -58,22 +49,7 @@
 			})
 		})
 	</script>
-	<script type="text/javascript">
-		var phonecatApp = angular.module('phonecatApp', []);
-
-		phonecatApp.controller('PhoneListCtrl', function($scope) {
-			$scope.phones = [ {
-				'name' : 'Nexus S',
-				'snippet' : 'Fast just got faster with Nexus S.'
-			}, {
-				'name' : 'Motorola XOOM™ with Wi-Fi',
-				'snippet' : 'The Next, Next Generation tablet.'
-			}, {
-				'name' : 'MOTOROLA XOOM™',
-				'snippet' : 'The Next, Next Generation tablet.'
-			} ];
-		});
-	</script>
+	
 	<!--coded by Lynx-->
 </body>
 </html>

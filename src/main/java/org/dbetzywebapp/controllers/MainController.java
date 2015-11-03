@@ -15,9 +15,18 @@ public class MainController {
 	public String home(@RequestParam(required = false) String language, Model model)
 	{
 		 
-		model.addAttribute("currentCulture", language); 
+//		model.addAttribute("currentCulture", language); 
 		
 		return "home";
+	}
+	
+	@RequestMapping(value="prueba_angular.htm", method=RequestMethod.GET )
+	public String pruebaAngular(@RequestParam(required = false) String language, Model model)
+	{
+		 
+//		model.addAttribute("currentCulture", language); 
+		
+		return "prueba_angular";
 	}
 	
 	
