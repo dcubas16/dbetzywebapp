@@ -6,11 +6,7 @@
 <header style="text-align: center;">
 	<div style="width: 100%">
 		<h1>
-<<<<<<< HEAD
 			<a href="#!/page_main" id="logo">D'Betzy</a>
-=======
-			<a href="#!/page_main" id="logo">DBetzy</a>
->>>>>>> 97d6184404f35a9ef49d02977b9e00cc31666ddf
 		</h1>
 		<nav class="menu">
 			<ul id="menu" class="sf-js-enabled">
