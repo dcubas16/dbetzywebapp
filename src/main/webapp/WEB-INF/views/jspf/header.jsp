@@ -4,6 +4,7 @@
 <%@	taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 
 <header style="text-align: center;">
+HOLA
 	<div style="width: 100%">
 		<h1>
 			<a href="#!/page_main" id="logo">D'Betzy</a>
@@ -59,26 +60,26 @@
 					src="resources/images/follow_icon3.png" alt=""></a></li>
 		</ul>
 
-		<form id="form1" class="follow-icon" method="post"
-			style="margin-top: 0px; margin-left: 0px; margin-right: 15px; float: right;">
-			<label> <strong class="select1">
-					<div class="jqTransformSelectWrapper" style="z-index: 10;">
-						<div>Español</div>
-						<a href="#" class="jqTransformSelectOpen" style="opacity: 1;"></a>
-						<ul
-							style="width: 160px; display: none; visibility: visible; height: 60px; overflow: hidden; top: 25px;">
-							<li><a href="#" index="0" class="selected">&nbsp;</a></li>
-							<li><a href="#" index="1">Español</a></li>
-							<li><a href="#" index="2">English</a></li>
-						</ul>
-						<select name="select" class="jqTransformHidden">
-							<option value="0">Español</option>
-							<option value="1">English</option>
-						</select>
-					</div>
-			</strong>
-			</label>
-		</form>
+<%-- 		<form id="form1" class="follow-icon" method="post" --%>
+<%-- 			style="margin-top: 0px; margin-left: 0px; margin-right: 15px; float: right;"> --%>
+<!-- 			<label> <strong class="select1"> -->
+<!-- 					<div class="jqTransformSelectWrapper" style="z-index: 10;"> -->
+<!-- 						<div>Español</div> -->
+<!-- 						<a href="#" class="jqTransformSelectOpen" style="opacity: 1;"></a> -->
+<!-- 						<ul -->
+<!-- 							style="width: 160px; display: none; visibility: visible; height: 60px; overflow: hidden; top: 25px;"> -->
+<!-- 							<li><a href="#" index="0" class="selected">&nbsp;</a></li> -->
+<!-- 							<li><a href="#" index="1">Español</a></li> -->
+<!-- 							<li><a href="#" index="2">English</a></li> -->
+<!-- 						</ul> -->
+<!-- 						<select name="select" class="jqTransformHidden"> -->
+<!-- 							<option value="0">Español</option> -->
+<!-- 							<option value="1">English</option> -->
+<!-- 						</select> -->
+<!-- 					</div> -->
+<!-- 			</strong> -->
+<!-- 			</label> -->
+<%-- 		</form> --%>
 
 		<!-- 		<ul class="dropdown-menu" role="menu"> -->
 		<!-- 			<li -->
