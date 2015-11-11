@@ -4,7 +4,6 @@
 <%@	taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 
 <header style="text-align: center;">
-HOLA
 	<div style="width: 100%">
 		<h1>
 			<a href="#!/page_main" id="logo">D'Betzy</a>

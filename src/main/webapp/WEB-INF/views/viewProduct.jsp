@@ -32,9 +32,7 @@
 						ng-src="{{product.imageUrl}}" alt="">
 				</a>
 					<p class="text2">{{product.description}}</p> <a href="#"
-					class="text1"><spring:message code="label.price" /> $
-						{{product.price}}</a></li>
-
+					class="text1">{{product.price}}</a></li>
 			</ul>
 		</article>
 		<article class="col5">
@@ -55,16 +53,20 @@
 		</article>
 	</div>
 	<script type="text/javascript">
-		var productsListApp = angular.module('productsListApp', []);
+		var productsListApp = angular.module('viewProduct', []);
 
-		productsListApp.controller('productsCtrl', function($scope) {
-			$scope.products = [ {
+		productsListApp.controller('viewProductCtrl', function($scope) {
+			$scope.mainProduct = {
 				
 				'id' : '1',
-				'imageUrl' : 'resources/images/page4_pic1.jpg',
+				'name' : 'resources/images/page4_pic1.jpg',
+				'images' :  [ {'id':'1', 'url':'resources/images/page4_pic1.jpg'} ],
 				'description' : 'Fast just got faster with Nexus S.',
+				'materials' : [ {'id':'1', 'name':'gold'} ],
+				'sizes' :  [ {'id':'1', 'name':'small', 'abbreviture':'s' } ],
 				'price' : '150.00'
-			} ];
+				
+			};
 		});
 	</script>
 </body>
